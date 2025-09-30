@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mltbx
+*.slxc
+*.slprj/
+*.mdl.autosave
+*.autosave
+
+# 系统/编辑器缓存
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# 输出文件
+results/
+*.fig
+*.png
+*.pdf
